@@ -10,7 +10,24 @@ A new Flutter project.
 <img width="1229" height="865" alt="image" src="https://github.com/user-attachments/assets/47a8d7f8-c8a0-46b5-b814-2255d5d813c0" />
 <img width="1228" height="862" alt="image" src="https://github.com/user-attachments/assets/222a5d09-5ae6-4cd0-8658-6539b5afff3e" />
 
+## promt
+Actúa como un desarrollador experto en Flutter. Crea una aplicación de una sola página (un solo archivo main.dart) con rutas nombradas para 3 pantallas, siguiendo una estética Dark Mode Premium (estilo fitness/dieta).
 
+Configuración Global:
+
+Colores: Fondo principal #121212, tarjetas #1E1E1E, color de acento (botones y detalles) verde lima #C0FF00.
+
+Estilo: Bordes muy redondeados (20px), fuentes gruesas y limpias, sin elevación en AppBars.
+
+Pantallas a realizar:
+
+Pantalla de Bienvenida ('/'): Texto centrado "Bienvenido a EasyDiet" (en verde lima), una ilustración o icono grande de fitness en el centro, y dos botones inferiores: "Iniciar Sesión" (verde con texto negro) y "Crear Cuenta" (gris oscuro con texto blanco).
+
+Pantalla de Registro ('/registro'): AppBar con flecha de retorno. Título "Crear Cuenta". 4 campos de texto (Nombre, Email, Password, Confirmar) con fondo gris oscuro y bordes redondeados. Un botón grande verde lima al final.
+
+Pantalla de Inicio ('/inicio'): AppBar con icono de menú a la izquierda y campana a la derecha. Saludo "Hola, Carlos" en grande. Una sección horizontal de "Tu Plan de Hoy" con 3 tarjetas (Desayuno, Almuerzo, Cena) que incluyan un círculo de color, el nombre y las calorías en verde. Finalmente, dos botones tipo lista anchos para "Progreso Semanal" y "Recetas Saludables" con un icono de flecha a la derecha.
+
+Requisito Técnico: El código debe ser funcional, sin errores de paréntesis, y utilizar Navigator.pushNamed para moverse entre ellas."
 
 ## Getting Started
 
